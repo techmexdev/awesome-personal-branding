@@ -19,7 +19,7 @@ Curated list of awesome personal branding tools and resources 🕶 🎨 🛠
 [Bear](http://www.bear-writer.com/) - Write beautifully on iPhone, iPad, and Mac
 
 ## Publishing
-[Ghost](https://ghost.org/)
+[Ghost](https://ghost.org/) - The professional publishing platform
 
 ## Contract work
 [Pricing Pages](http://www.pricingpages.xyz/) - Curated directory of the best pricing pages  
@@ -40,4 +40,4 @@ Curated list of awesome personal branding tools and resources 🕶 🎨 🛠
 
 ## Email marketing
 [Send Out](https://sendout.io/) - Email marketing automation for Bloggers and Authors
-
+[Revue](https://www.getrevue.co/) - Simple newsletter 
