@@ -18,6 +18,9 @@ Curated list of awesome personal branding tools and resources 🕶 🎨 🛠
 [Milanote](http://www.milanote.com/) - The notes app for creative individuals  
 [Bear](http://www.bear-writer.com/) - Write beautifully on iPhone, iPad, and Mac
 
+## Publishing
+[Ghost](https://ghost.org/)
+
 ## Contract work
 [Pricing Pages](http://www.pricingpages.xyz/) - Curated directory of the best pricing pages  
 [mockuuups](https://mockuuups.studio/) - Product mockups, made easy & instantly.
