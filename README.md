@@ -10,6 +10,7 @@ Curated list of awesome personal branding tools and resources 🕶 🎨 🛠
 ## Design
 [Adobe Spark](https://spark.adobe.com/) - Create impactful social graphics  
 [Frontify](https://frontify.com/styleguide) - Create beautiful style guides
+
 ## Logos
 [Free minimal logos](http://freeminimallogos.com/) - Minimal logos
 
@@ -33,4 +34,7 @@ Curated list of awesome personal branding tools and resources 🕶 🎨 🛠
 ## Business Cards
 [haystack](https://thehaystackapp.com) - Stylish & Smart Digital Business Cards  
 [MOO](https://www.moo.com/us/) - Premium Business Cards, Luxe Business Cards, Postcards, Stickers and more
+
+## Email marketing
+[Send Out](https://sendout.io/) - Email marketing automation for Bloggers and Authors
 
