@@ -18,8 +18,10 @@ Curated list of awesome personal branding tools and resources 🕶 🎨 🛠
 [Milanote](http://www.milanote.com/) - The notes app for creative individuals  
 [Bear](http://www.bear-writer.com/) - Write beautifully on iPhone, iPad, and Mac
 
-## Publishing
-[Ghost](https://ghost.org/) - The professional publishing platform
+## Blogging
+[Ghost](https://ghost.org/) - The professional publishing platform  
+[Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
+
 
 ## Contract work
 [Pricing Pages](http://www.pricingpages.xyz/) - Curated directory of the best pricing pages  
